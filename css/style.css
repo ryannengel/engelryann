@@ -5,12 +5,14 @@ font-family: 'Anton', sans-serif;
 
 */
 
+
+
 /*NAVIGATION*/
 
 ul{
   list-style: none;
   display: inline-block;
-  float: right;  
+  float: right; 
 }
 
 ul li{
@@ -26,7 +28,7 @@ nav a{
 }
 
 .nav{
-  background: rgba(157, 101, 52, .4);
+  background: black;
   height: 40px;
   font-family: 'Raleway', sans-serif;
 }
@@ -37,6 +39,5 @@ nav ul li:hover{
 }
 
 
-h1 {
-  color: teal;
-}
+
+/*HEADER*/
