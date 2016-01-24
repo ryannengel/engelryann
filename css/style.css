@@ -4,3 +4,39 @@ font-family: 'Raleway', sans-serif;
 font-family: 'Anton', sans-serif;
 
 */
+
+/*NAVIGATION*/
+
+ul{
+  list-style: none;
+  display: inline-block;
+  float: right;  
+}
+
+ul li{
+  display: inline-block;
+  padding: 10px;
+  margin-top: -15px;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  display: inline-block;  
+}
+
+.nav{
+  background: rgba(157, 101, 52, .4);
+  height: 40px;
+  font-family: 'Raleway', sans-serif;
+}
+
+nav ul li:hover{
+  background: rgba(0, 57, 80, .8);
+  border-radius: 50%;
+}
+
+
+h1 {
+  color: teal;
+}
