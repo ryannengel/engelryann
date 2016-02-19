@@ -385,15 +385,6 @@ https://github.com/ryannengel/engelryann/blob/gh-pages/img/booth.jpg
 }
 
 
-
-
-
-
-
-
-
-
-
 /*************** RESUME ***************/
 .main_content{
   width: 80%;
@@ -428,12 +419,88 @@ MEDIA QUERIES
 
 /* Tablet */
 @media (max-width: 768px) {
+  
+  .hoverbox a:hover .preview {
+	display: none;
+  }
+  
+  .bio{
+  width: 40%;
+  font-size: 90%;
+}
 
+.hello {
+  font-size: 300%;
+  width: 45%;
+}
+
+.bw,
+.animate{
+  width: 45%;
+}  
+  
+#contact{
+  width: 90%;
+  font-size: 120%;
+}
 }
 
 /* Mobile */
 @media (max-width: 480px) {
+  
+  .bio{
+  width: 100%;
+  font-size: 90%;
+}
 
+.hello {
+  font-size: 300%;
+  width: 100%;
+  margin-bottom: 17%
+}
+
+.bw,
+.animate{
+  width: 90%;
+}  
+  
+#contact{
+  width: 100%;
+  font-size: 120%;
+}
+ 
+.phone,
+.env {
+  width: 8%;
+  display: block;
+  margin: 0 auto;
+  padding: 6%;
+}
+  
+  .contact{
+    margin-bottom: -3%;
+  }
+  
+  .main_content{
+  width: 97%;
+}
+
+.title{
+  font-family: 'raleway', sans-serif;
+  font-size: 200%;
+  color: #ffff00;
+  padding: 3%;
+   border-bottom: white solid;
+}
+
+.school{
+  font-size: 100%
+}
+
+.degree{
+ padding-left: 40px;
+  font-size: .8em;
+}
   
 }
 
