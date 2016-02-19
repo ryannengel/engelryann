@@ -280,9 +280,94 @@ https://github.com/ryannengel/engelryann/blob/gh-pages/img/booth.jpg
   display: block;
   margin: 0 auto;
   margin-top: 10px;
+  padding: 2%;
+}
+
+/*SIGNAL*/
+
+.signal-png {
+  width: 90%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 2%;
 }
 
 
+/*HARWARD*/
+
+.logo-img {
+  width: 70%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 2%;
+}
+
+/*OCEAN*/
+
+.ocean-img {
+  width: 30%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 2%;
+}
+
+/*TYPE MAP*/
+
+.map-img{
+  width: 30%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 2%
+}
+
+
+/*MAP*/
+
+
+/*ENGINE*/
+
+.engine-img{
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 10px;
+}
+
+/*INDIA*/
+
+.india-img{
+  width: 30%;
+  margin-left: 35%;
+  margin-top: 10px;
+}
+
+
+/*MICHAEL*/
+
+.mike-img{
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 10px;
+}
+
+/*SATORI*/
+
+.satori-img{
+  width: 100%;
+  margin-left: ;
+  margin-top: 10px;
+}
+
+/*NIKE*/
+
+.nike-img{
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 10px;
+}
 
 
 
