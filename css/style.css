@@ -422,12 +422,23 @@ https://github.com/ryannengel/engelryann/blob/gh-pages/img/booth.jpg
 
 
 
+/********************
+MEDIA QUERIES
+*******************/
 
+/* Tablet */
+@media (max-width: 768px) {
+  
 
-
-
-.skills_list li{
-  width: 50%;
-  display: inline-block;
-  margin-top: -50px;
 }
+
+/* Mobile */
+@media (max-width: 480px) {
+
+  
+}
+
+
+
+
+
