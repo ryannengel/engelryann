@@ -206,17 +206,6 @@ a .port-link {
 
 /*UNIVERSAL*/
 
-.bug_nav{
-  background: rgba(0, 57, 80, .9);
-  height: 40px;
-  font-family: 'Raleway', sans-serif;
-}
-
-.bug_nav ul li:hover{
-  background: rgba(157, 101, 52, .8);
-  border-radius: 50%;
-}
-
 .about-art{
   width:70%;
   font-size: 125%;
@@ -225,21 +214,14 @@ a .port-link {
 }
 
 #bug-body {
-  background-color: #9d6534;
-  width: 100%;
-  background: url(../img/flower_portfolio.png) center;
-  background-size: 155%;
-  background-repeat: repeat;
+  background-color: black;
 }
 
 .description {
-	background: rgba(0, 57, 80, .9);
+    width: 100%;
+	background: yellow;
 	color: white;
-	margin: 50px auto;
-	padding: 50px;
-    color: white;
     font-family: 'Raleway', sans-serif;
-    width: 70%;
 }
 
 .piece-title {
