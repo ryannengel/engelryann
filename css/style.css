@@ -37,8 +37,8 @@ nav ul li:hover{
 /*************** PARALLAX ***************/
 
 .parallax-window {
-    min-height: 400px;
-    background: transparent;
+    min-height: 550px;
+    background-image: cover;
 }
 
 /*************** BIO ********************/
