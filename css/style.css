@@ -327,21 +327,32 @@ https://github.com/ryannengel/engelryann/blob/gh-pages/img/booth.jpg
 
 /*MAP*/
 
+.paris-img{
+  width: 95%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 10px;
+  padding: 2%
+}
 
 /*ENGINE*/
 
 .engine-img{
   width: 30%;
-  margin-left: 35%;
+  display: block;
+  margin: 0 auto;
   margin-top: 10px;
+  padding: 2%
 }
 
 /*INDIA*/
 
 .india-img{
   width: 30%;
-  margin-left: 35%;
+  display: block;
+  margin: 0 auto;
   margin-top: 10px;
+  padding: 2%
 }
 
 
@@ -349,24 +360,30 @@ https://github.com/ryannengel/engelryann/blob/gh-pages/img/booth.jpg
 
 .mike-img{
   width: 40%;
-  margin-left: 30%;
+  display: block;
+  margin: 0 auto;
   margin-top: 10px;
+  padding: 2%
 }
 
 /*SATORI*/
 
 .satori-img{
-  width: 100%;
-  margin-left: ;
+  width: 90%;
+  display: block;
+  margin: 0 auto;
   margin-top: 10px;
+  padding: 2%
 }
 
 /*NIKE*/
 
 .nike-img{
   width: 50%;
-  margin-left: 25%;
+  display: block;
+  margin: 0 auto;
   margin-top: 10px;
+  padding: 2%
 }
 
 
