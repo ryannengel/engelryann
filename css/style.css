@@ -200,6 +200,90 @@ a .port-link {
 	height: 300px;
 }
 
+
+
+
+
+/*UNIVERSAL*/
+
+.bug_nav{
+  background: rgba(0, 57, 80, .9);
+  height: 40px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.bug_nav ul li:hover{
+  background: rgba(157, 101, 52, .8);
+  border-radius: 50%;
+}
+
+.about-art{
+  width:70%;
+  font-size: 125%;
+  margin: auto;
+  padding-top: 10px;
+}
+
+#bug-body {
+  background-color: #9d6534;
+  width: 100%;
+  background: url(../img/flower_portfolio.png) center;
+  background-size: 155%;
+  background-repeat: repeat;
+}
+
+.description {
+	background: rgba(0, 57, 80, .9);
+	color: white;
+	margin: 50px auto;
+	padding: 50px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 70%;
+}
+
+.piece-title {
+	border-bottom: 5px double white;
+	color: white;
+	font-family: 'Oswald', sans-serif;
+    font-size: 300%;
+	margin: 0 0 10px;
+	padding: 0 0 5px;
+	text-align: center;
+}
+
+#back a{
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  float: right;
+  text-decoration: none;
+  padding: 20px;
+  margin-top: -20px;
+}
+
+#back a:hover{
+  background: rgba(59, 131, 126, .8);
+  border-radius: 50%;
+}
+
+
+/*BUG*/
+
+.bug-img{
+  width: 100%;
+  margin: auto;
+  margin-top: 10px
+}
+
+
+
+
+
+
+
+
+
+
 /*************** RESUME ***************/
 .main_content{
   width: 80%;
