@@ -41,6 +41,32 @@ nav ul li:hover{
     background-image: cover;
 }
 
+/*************** SECTION HEADERS ***************/
+
+.replacement {
+  text-transform: uppercase;
+  color: yellow;
+  font-family: Adam;
+  font-size: 9.1em;
+  font-weight: 100;
+  text-align: right;
+  margin-right: 3%;
+  margin-top: -2.8em;
+}
+
+.sub {
+  text-transform: lowercase;
+  color: white;
+  font-family: Adam;
+  text-align: right;
+  margin-right: 3%;
+  font-size: 5em;
+  font-weight: 100;
+  margin-top: -1.6em;
+  padding-bottom: 4em;
+}
+
+
 /*************** BIO ********************/
 
 section {
