@@ -576,8 +576,8 @@ nav a{
 }
 
 .replacement2 {
-  font-size: 9em;
-  margin-top: -3em;
+  font-size: 6em;
+  margin-top: -4.5em;
   padding: 11%;
   text-align: center;
 }
@@ -591,22 +591,27 @@ nav a{
     margin-top: -1.5em;
 }
   
+ .bw,
+.animate{
+  width: 100%;
+  margin: 0 auto;
+}  
   
   .bio{
   width: 100%;
   font-size: 90%;
+  float: none;
 }
 
 .hello {
   font-size: 300%;
   width: 100%;
-  margin-bottom: 17%
+  margin-bottom: 17%;
+  text-align: center;
+  float: none;
 }
 
-.bw,
-.animate{
-  width: 90%;
-}  
+
   
 #contact{
   width: 100%;
