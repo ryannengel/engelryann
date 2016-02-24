@@ -2,6 +2,7 @@
 
 @font-face {
     font-family: Adam;
+    src: url(../webfontkit/adam-demo.html);
     src: url(../webfontkit/adam-webfont.eot);
     src: url(../webfontkit/adam-webfont.svg);
     src: url(../webfontkit/adam-webfont.ttf);
