@@ -1,3 +1,4 @@
+/*************** LOAD EXTERNAL FONT ***************/
 
 @font-face {
     font-family: Adam;
@@ -8,7 +9,7 @@
     src: url(../webfontkit/adam-webfont.woff2);
 }
 
-
+/*************** UNIVERSAL ***************/
 
 body{
   background: black;
