@@ -1,7 +1,11 @@
 
 @font-face {
     font-family: Adam;
-    src: url(Adam.woff);
+    src: url(../webfontkit/adam-webfont.eot);
+    src: url(../webfontkit/adam-webfont.svg);
+    src: url(../webfontkit/adam-webfont.ttf);
+    src: url(../webfontkit/adam-webfont.woff);
+    src: url(../webfontkit/adam-webfont.woff2);
 }
 
 
